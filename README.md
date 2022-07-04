@@ -4,7 +4,9 @@
 
 ## Code and Resources Used
 **Python Version:** 3.7
+
 **Packages:** pandas, matplotlib, numpy, sklearn
+
 **Dataset:** http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits (included in Scikit-learn's library)
 
 ## Data Overview
